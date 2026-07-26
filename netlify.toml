@@ -1,7 +1,7 @@
 [build]
-  base = "./.11ty/"
+  base = ".11ty/"
   command = "npm run build"
-  publish = "./_site/"
+  publish = "_site/"
 
   # The magic bit: 
   # This command returns '1' (trigger build) if there are changes 

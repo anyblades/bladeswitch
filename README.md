@@ -37,7 +37,7 @@ By [literally] hiding inside `.11ty` subfolder, it declutters the project root f
 ```
 
 </td><td></td><td>
-  
+
 ```treeview
 ├── .github/
 ├── _config/
@@ -53,7 +53,7 @@ By [literally] hiding inside `.11ty` subfolder, it declutters the project root f
 ├── .nvmrc
 ├── LICENSE
 ├── README.md
-├── eleventy.config.js
+├── buildawesome.config.js
 ├── netlify.toml
 ├── package-lock.json
 ├── package.json
