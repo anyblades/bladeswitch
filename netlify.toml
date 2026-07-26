@@ -1,5 +1,5 @@
 [build]
-  base = ".11ty/"
+  base = ".build/"
   command = "npm run build"
   publish = "_site/"
 
