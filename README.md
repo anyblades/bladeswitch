@@ -3,15 +3,15 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-# 🥷 *S*ubtle<sup class="faded"><sub> <i class="fa-brands fa-eleventy fa-2xs"></i></sub></sup>
+# <a href="https://build.blades.ninja/"><i class="fa-brands fa-square-build-awesome-stroke fa-width-auto"></i></a> *C*ontent-First
 
 ![](https://img.shields.io/github/v/release/anyblades/subtle?label=&color=darkslategray&style=for-the-badge)
 [![](https://img.shields.io/badge/Demo-blue?logo=netlify&logoColor=white&style=for-the-badge)](https://subtle.blades.ninja/)
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/subtle)
 [![](https://img.shields.io/github/stars/anyblades/subtle?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/subtle)
 
-<big>The most subtle Eleventy v4 [micro-starter](//11ty.blades.ninja/starters/) for content-first sites.</big>  
-Powered by [Eleventy *Bl*ades](//11ty.blades.ninja/)
+<big>Best content-first micro-starter powered by [Build Awesome Kit](//build.blades.ninja/) and [Blades CSS](//blades.ninja/):
+perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
 ---
 
