@@ -3,14 +3,14 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-# <sup style>Build Awesome</sup> *C*ontent-First
+<h1><sup style class="faded">Build Awesome</sup> <em>C</em>ontent-First</h1>
 
 ![](https://img.shields.io/github/v/release/anyblades/subtle?label=&color=darkslategray&style=for-the-badge)
 [![](https://img.shields.io/badge/Demo-blue?logo=netlify&logoColor=white&style=for-the-badge)](https://subtle.blades.ninja/)
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/subtle)
 [![](https://img.shields.io/github/stars/anyblades/subtle?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/subtle)
 
-<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/):
+<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/) —
 perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
 ---
@@ -55,7 +55,7 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 ├── .nvmrc
 ├── LICENSE
 ├── README.md
-├── buildawesome.config.js
+├── eleventy.config.js
 ├── netlify.toml
 ├── package-lock.json
 ├── package.json
@@ -74,8 +74,10 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 
 ## Local development
 
-```sh {data-caption="As simple as:"}
-cd .11ty/
+As simple as:
+
+```sh
+cd .build/
 npm install    # dependencies
 npm start      # development
 npm run stage  # serve production version locally
@@ -86,7 +88,10 @@ npm run stage  # serve production version locally
 
 ## <sup style>Featured by</sup>
 
-https://11tybundle.dev/starters/,
-https://11ty.blades.ninja/starters/,
-https://www.11ty.dev/docs/starter/,
-[awesome-11ty](https://github.com/anyblades/awesome-11ty-buildawesome)
+- https://www.11ty.dev/docs/starter/
+- https://sveltiacms.app/en/docs/frameworks/eleventy
+- https://build.blades.ninja/starters/
+- https://11tybundle.dev/starters/
+- [awesome-buildawesome](https://github.com/anyblades/awesome-buildawesome)
+
+<!--{.columns}-->
