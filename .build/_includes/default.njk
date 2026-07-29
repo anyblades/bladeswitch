@@ -7,17 +7,20 @@
 {% set content_for_header %}
   <meta name="generator" content="{{ site.generator }}">
   <style>
-    body > nav { padding-block-start: 1rem; justify-content: center }
-    body > footer { padding-block-end: 2rem; text-align: center; font-size: medium }
+    body > footer { text-align: center; padding-bottom: 3rem; font-size: medium }
   </style>
 {% endset %}
 
 {% block body %}
-  <nav>{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}</nav>
+  <nav class="container">
+    <ul><li><a href="/"><i class='fa-brands fa-square-build-awesome-stroke fa-xl'></i></a></li></ul>
+    {{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+  </nav>
   <main class="container breakout-all">
     {% if title %}<h1>{{ title }}</h1>{% endif %}
     {% if description %}<p><big>{{ description }}</big></p>{% endif %}
     {{ content | safe }}
   </main>
-  <footer><hr>{{ site.footer | safe }} © {{ site.year }}</footer>
+  <hr>
+  <footer>{{ site.footer | safe }} © {{ site.year }}</footer>
 {% endblock %}

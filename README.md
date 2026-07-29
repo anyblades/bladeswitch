@@ -3,32 +3,34 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-# <a href="https://build.blades.ninja/"><i class="fa-brands fa-square-build-awesome-stroke fa-width-auto"></i></a> *C*ontent-First
+# <sup style>Build Awesome</sup> *C*ontent-First
 
 ![](https://img.shields.io/github/v/release/anyblades/subtle?label=&color=darkslategray&style=for-the-badge)
 [![](https://img.shields.io/badge/Demo-blue?logo=netlify&logoColor=white&style=for-the-badge)](https://subtle.blades.ninja/)
 [![](https://img.shields.io/badge/Code-gainsboro?logo=github&logoColor=black&style=for-the-badge)](https://github.com/anyblades/subtle)
 [![](https://img.shields.io/github/stars/anyblades/subtle?label=Star&labelColor=gainsboro&color=silver&style=for-the-badge)](https://github.com/anyblades/subtle)
 
-<big>Best content-first micro-starter powered by [Build Awesome Kit](//build.blades.ninja/) and [Blades CSS](//blades.ninja/):
+<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/):
 perfect for blogs, docs, landing pages, or anything content-driven.</big>
 
 ---
 
 ## Feel the difference
 
-By [literally] hiding inside `.11ty` subfolder, it declutters the project root for your content:
+By [literally] hiding inside `.build` subfolder, it declutters the project root for your content:
 
 <table class="borderless">
-<tr>
-  <th><a href="https://github.com/anyblades/subtle">subtle</a></th>
-  <th>vs.</th>
-  <th><a href="https://github.com/11ty/eleventy-base-blog">eleventy-base-blog</a></th>
-</tr>
+<tr><th>
+
+[buildawesome-content-first](https://github.com/anyblades/buildawesome-content-first)
+</th><th>vs.</th><th>
+
+[eleventy-base-blog](https://github.com/11ty/eleventy-base-blog)
+</th></tr>
 <tr><td><!-- $ tree -L 1 -a -F --dirsfirst -I '.git' --noreport | pbcopy -->
 
 ```treeview
-├── .11ty/
+├── .build/
 ├── blog/
 ├── media/
 ├── LICENSE.md
@@ -63,8 +65,8 @@ By [literally] hiding inside `.11ty` subfolder, it declutters the project root f
 </td></tr></table>
 <style>
   .borderless {
-    th { padding-block-end: 0 }
-    pre { padding-block: 0; padding-inline-start: 0; margin: 0 }
+    th { padding-bottom: 0 }
+    pre { padding: 0; margin: 0 }
   }
 </style>
 
