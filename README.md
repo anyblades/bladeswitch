@@ -3,12 +3,12 @@ permalink: /
 eleventyNavigation: { key: Home, order: 1 }
 ---
 
-<h1><sup style class="faded">Build Awesome</sup> <em>C</em>ontent-First</h1>
+<h1><sup style class="faded">Build Awesome<br></sup> <em>C</em>ontent-First</h1><!-- <br> is for GitHub -->
 
 <p>
-  <img src="https://img.shields.io/github/v/release/anyblades/buildawesome-content-first?label=&style=for-the-badge">
-  <a href="https://content.build.blades.ninja/"><img src="https://img.shields.io/badge/Demo-green?logo=netlify&logoColor=white&style=for-the-badge"></a>
-  <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?logo=github&label=GitHub&color=gainsboro&style=for-the-badge"></object>
+  <img src="https://img.shields.io/github/v/release/anyblades/buildawesome-content-first?label=&color=darkslategray&style=for-the-badge">
+  <a href="https://content.build.blades.ninja/"><img src="https://img.shields.io/badge/Demo_➜-blue?style=for-the-badge" hidden></a>
+  <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object>
 </p>
 
 <big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/) —
