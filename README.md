@@ -11,8 +11,8 @@ eleventyNavigation: { key: Home, order: 1 }
   <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object>
 </p>
 
-<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/) —
-perfect for blogs, docs, landing pages, or anything content-driven.</big>
+<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/)
+—&nbsp;perfect for blogs, docs, landing&nbsp;pages, or anything content-driven.</big>
 
 ---
 
