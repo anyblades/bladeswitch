@@ -12,7 +12,7 @@ eleventyNavigation: { key: Home, order: 1 }
 </p>
 
 <big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/)
-—&nbsp;perfect for blogs, docs, landing&nbsp;pages, or anything content-driven.</big>
+—&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
 
 ---
 
