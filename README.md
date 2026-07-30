@@ -1,6 +1,7 @@
 ---
 permalink: /
 eleventyNavigation: { key: Home, order: 1 }
+content_for_header: <meta property="og:image" content="https://build.blades.ninja/og/content-first.png">
 ---
 
 <h1><sup style class="faded">Build Awesome<br></sup> <em>C</em>ontent-First</h1><!-- <br> for GitHub only -->

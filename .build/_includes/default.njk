@@ -6,6 +6,8 @@
 
 {% set content_for_header %}
   <meta name="generator" content="{{ site.generator }}">
+  <meta property="og:title" content="{{ title | d(site.title) | striptags }}">
+  <meta name="twitter:card" content="summary_large_image">
   <style>
     object { vertical-align: middle } /*TODO: move to blades.css */
     body > footer {
@@ -13,6 +15,7 @@
       object { vertical-align: text-top; border-radius: 2px; margin-inline: 0.25ch }
     }
   </style>
+  {{ content_for_header | safe }}
 {% endset %}
 
 {% block body %}
