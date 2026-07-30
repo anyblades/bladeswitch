@@ -28,7 +28,7 @@
     },
     "base": "https://content.build.blades.ninja/",
     "favicon": "https://blades.ninja/favicon.ico",
-    "footer": "Powered by &nbsp;<a href='https://github.com/anyblades'><img src='https://img.shields.io/github/stars/anyblades?logo=_&label=🥷%20Blades'></a>",
+    "footer": "Powered by <b class='dark-auto'><object data='https://build.blades.ninja/gh.svg'></object>+<object data='https://blades.ninja/gh.svg'></object></b>",
     "language": "en",
     "subtitle": "",
     "styles": [
