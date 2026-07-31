@@ -28,7 +28,7 @@
     },
     "base": "https://content.build.blades.ninja/",
     "favicon": "https://blades.ninja/favicon.ico",
-    "footer": "Powered by <b class='dark-auto'><object data='https://build.blades.ninja/gh.svg'></object>×<object data='https://blades.ninja/gh.svg'></object></b>",
+    "footer": "Powered by <b class='dark-auto'><object data='https://build.blades.ninja/gh.svg'></object> × <object data='https://blades.ninja/gh.svg'></object></b>",
     "language": "en",
     "subtitle": "",
     "styles": [
