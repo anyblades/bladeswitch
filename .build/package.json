@@ -21,7 +21,7 @@
     "prettier-plugin-jinja-template": "^2.1.0",
     "serve": "^14.2.5"
   },
-  "=== SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
+  "--- SITE GLOBALS": "compatible with https://www.11ty.dev/docs/plugins/rss/#virtual-template",
   "site": {
     "author": {
       "name": "Anton Staroverov"
@@ -45,5 +45,5 @@
     ],
     "title": "Build Awesome Content-First Micro-Starter"
   },
-  "===": "==="
+  "---": "---"
 }
