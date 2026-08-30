@@ -30,8 +30,8 @@
     "language": "en",
     "subtitle": "",
     "styles": [
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/blades.css?min=0",
-      "https://cdn.jsdelivr.net/npm/@anyblades/blades@2/css/ninja.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/blades.css?min=0",
+      "https://cdn.jsdelivr.net/npm/@anyblades/blades@^3.0.0-0/css/ninja.css?min=0",
       "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7/css/all.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-okaidia.min.css",
       "https://cdn.jsdelivr.net/npm/prismjs@1/plugins/treeview/prism-treeview.min.css"
