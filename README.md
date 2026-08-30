@@ -5,8 +5,8 @@ content_for_header: <meta property="og:image" content="https://build.blades.ninj
 ---
 
 <h1>
-  <sup style class="faded">Build Awesome<br></sup><!-- <br> for GitHub only -->
-  <em>C</em>ontent-First
+  <sup style class="faded">11ty / Build Awesome<br></sup><!-- <br> for GitHub only -->
+  <em>One</em> Starter
 </h1>
 
 <p>
@@ -15,7 +15,7 @@ content_for_header: <meta property="og:image" content="https://build.blades.ninj
   <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object><!-- won't render on GitHub -->
 </p>
 
-<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;Kit](//build.blades.ninja/) and [Blades&nbsp;CSS](//blades.ninja/)
+<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;One](//buildawesome.one/) and [Blades&nbsp;CSS](//blades.ninja/)
 —&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
 
 ---
@@ -27,10 +27,12 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 <table class="borderless">
 <tr><th>
 
-[buildawesome-content-first](https://github.com/anyblades/buildawesome-content-first)
-</th><th>vs.</th><th>
+https://github.com/buildawesome-one/starter
 
-[eleventy-base-blog](https://github.com/11ty/eleventy-base-blog)
+</th><th><p>vs.</p></th><th>
+
+https://github.com/11ty/eleventy-base-blog
+
 </th></tr>
 <tr><td><!-- $ tree -L 1 -a -F --dirsfirst -I '.git' --noreport | pbcopy -->
 
@@ -39,8 +41,7 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 ├── blog/
 ├── media/
 ├── LICENSE.md
-├── README.md
-└── netlify.toml
+└── README.md
 ```
 
 </td><td></td><td>
@@ -70,7 +71,7 @@ By [literally] hiding inside `.build` subfolder, it declutters the project root 
 </td></tr></table>
 <style>
   .borderless {
-    th { padding-bottom: 0 }
+    th { padding-bottom: 0; vertical-align: middle }
     pre { padding: 0; margin: 0 }
   }
 </style>
