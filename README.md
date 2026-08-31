@@ -15,7 +15,7 @@ content_for_header: <meta property="og:image" content="https://build.blades.ninj
   <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object><!-- won't render on GitHub -->
 </p>
 
-<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;One](//buildawesome.one/) and [Blades&nbsp;CSS](//blades.ninja/)
+<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;One](//buildawesome.one/) kit and [Blades&nbsp;CSS](//blades.ninja/)
 —&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
 
 ---
