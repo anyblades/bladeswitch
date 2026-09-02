@@ -1,21 +1,23 @@
 ---
 permalink: /
 eleventyNavigation: { key: Home, order: 1 }
-content_for_header: <meta property="og:image" content="https://build.blades.ninja/og/content-first.png">
 ---
 
-<h1>
-  <sup style class="faded">11ty / Build Awesome<br></sup><!-- <br> for GitHub only -->
-  <em>One</em> Starter
+<h1><sup style class="faded"><sub>11ty / Build Awesome<br></sub></sup><!-- <br> for GitHub only -->
+
+[_One_](//buildawesome.one/) Starter
+
 </h1>
 
 <p>
-  <img src="https://img.shields.io/github/v/release/anyblades/buildawesome-content-first?label=&color=darkslategray&style=for-the-badge">
-  <a href="https://content.build.blades.ninja/"><img src="https://img.shields.io/badge/Demo_➜-blue?style=for-the-badge" hidden></a><!-- GitHub only -->
-  <object data="https://img.shields.io/github/stars/anyblades/buildawesome-content-first?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object><!-- won't render on GitHub -->
+  <img src="https://img.shields.io/github/v/release/buildawesome-one/starter?label=&color=darkslategray&style=for-the-badge">
+  <a href="https://starter.buildawesome.one/" hidden><img src="https://img.shields.io/badge/Demo_➜-blue?style=for-the-badge"></a><!-- GitHub only -->
+  <object data="https://img.shields.io/github/stars/buildawesome-one/starter?label=GitHub&labelColor=silver&color=gainsboro&style=for-the-badge"></object><!-- won't render on GitHub -->
 </p>
 
-<big>Best content-first micro-starter powered by [Build&nbsp;Awesome&nbsp;One](//buildawesome.one/) kit and [Blades&nbsp;CSS](//blades.ninja/)
+<big>Best content-first micro-starter
+powered by [Build&nbsp;Awesome&nbsp;_One_](//buildawesome.one/)&nbsp;kit
+and [*Bl*ades&nbsp;CSS](//blades.ninja/)
 —&nbsp;perfect for blogs, docs, landing&nbsp;pages, or&nbsp;anything content-driven.</big>
 
 ---
@@ -96,8 +98,6 @@ npm run stage  # serve production version locally
 
 - https://www.11ty.dev/docs/starter/
 - https://sveltiacms.app/en/docs/frameworks/eleventy
-- https://build.blades.ninja/starters/
 - https://11tybundle.dev/starters/
-- [awesome-buildawesome](https://github.com/anyblades/awesome-buildawesome)
 
 <!--{.columns}-->
