@@ -91,13 +91,3 @@ npm start      # development
 npm run stage  # serve production version locally
                # ready to deploy! 🚀
 ```
-
----
-
-## <sup style>Featured by</sup>
-
-- https://www.11ty.dev/docs/starter/
-- https://sveltiacms.app/en/docs/frameworks/eleventy
-- https://11tybundle.dev/starters/
-
-<!--{.columns}-->
