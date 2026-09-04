@@ -6,14 +6,14 @@
   "type": "module",
   "scripts": {
     "precli": "[ -t 1 ] && clear || true",
-    "cli": "BA_OPTIONS='--input ../ --config node_modules/@buildawesome.one/config/buildawesome.config.js' npm -C .cli/ run",
+    "cli": "BA_CMD=eleventy BA_OPTIONS='--input ../ --config node_modules/@buildawesome.one/config/buildawesome.config.js' npm -C .cli/ run",
     "start": "npm run cli -- start",
     "stage": "npm run cli -- stage",
     "build": "npm run cli -- build"
   },
   "dependencies": {
-    "@awesome.me/buildawesome": "^4.0.0-0",
-    "@buildawesome.one/config": "^1.5.0"
+    "@11ty/eleventy": "^3.1.6",
+    "@buildawesome.one/config": "^1.5.2"
   },
   "devDependencies": {
     "prettier-plugin-jinja-template": "^2.1.0",
